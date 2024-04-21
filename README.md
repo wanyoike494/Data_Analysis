@@ -1,2 +1,2 @@
-# Data_Analysis_Julia
+# Data_Analysis
 Data Analysis in Julia
